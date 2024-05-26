@@ -15,4 +15,4 @@ post-it-social-web-app.vercel.app
 4.) password -- 123456 
 <br>
 
-## yu can use your personal email also for test purpose and if the user have not the trust on our application then he can use test credentials
+## yu can use your personal email also for test purpose and if the user have some privacy or personal issues regarding  our application then he can use test credentials
