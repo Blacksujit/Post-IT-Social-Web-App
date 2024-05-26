@@ -1,8 +1,14 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# Live Project Link:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+post-it-social-web-app.vercel.app
+
+## test credentials -- 
+
+1.) gmail -- test@gmail.com
+2.) user -- test
+3.) fullname -- test user
+4.) password -- 123456
+
+## yu can use your personal email also for test purpose and if the user have not the trust on our application then he can use test credentials
