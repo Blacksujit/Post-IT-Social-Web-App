@@ -2,8 +2,8 @@
 
 # Live Project Link:
 
-post-it-social-web-app.vercel.app
-
+https://post-it-social-web-app.vercel.app/auth
+ 
 ## test credentials -- 
 
 1.) gmail -- test@gmail.com 
